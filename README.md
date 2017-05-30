@@ -26,8 +26,10 @@ The code will look like the following:
          
 ### Software requirements:
 | __Chapter number__ | **Software required (With version)** | **If proprietary, can code testing be performed using a trial version** | **If proprietary, then cost of the software** | **Download links to the software** | __Hardware specifications__ | **OS required** |
+
  |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
- | All | SBT 0.13.13 | Free | No |  | http://www.scala-sbt.org/ | No hardware specifications. | Windows,Linux,Mac OS |
+
+| All | SBT 0.13.13 | Free | No |  | http://www.scala-sbt.org/ | No hardware specifications. | Windows,Linux,Mac OS |
  
 #### Detailed installation steps (software-wise)
 The steps should be listed in a way that it prepares the system environment to be able to test the codes of the book.
