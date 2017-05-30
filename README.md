@@ -32,7 +32,7 @@ The code will look like the following:
 #### Detailed installation steps (software-wise)
 The steps should be listed in a way that it prepares the system environment to be able to test the codes of the book.
 
-1. SBT:
+SBT:
     a. Download latest package from http://www.scala-sbt.org/download.html
     b. Install package
     c. Run sbt “sbt sbtVersion” in the command line to test the software was installed correctly.
