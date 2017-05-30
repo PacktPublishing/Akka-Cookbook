@@ -33,9 +33,9 @@ The code will look like the following:
 The steps should be listed in a way that it prepares the system environment to be able to test the codes of the book.
 
 SBT:
-    a. Download latest package from http://www.scala-sbt.org/download.html
-    b. Install package
-    c. Run sbt “sbt sbtVersion” in the command line to test the software was installed correctly.
+        a. Download latest package from http://www.scala-sbt.org/download.html
+        b. Install package
+        c. Run sbt “sbt sbtVersion” in the command line to test the software was installed correctly.
     
 ### Note:
 The Code folder contains the code samples used in this book.
