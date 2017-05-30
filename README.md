@@ -25,7 +25,7 @@ The code will look like the following:
          case class RemoveUserEvent(userId: String) extends Event
          
 ### Software requirements:
-| __Chapter number__ | **Software required (With version)** | **If proprietary, can code testing be performed using a trial version** | **If proprietary, then cost of the software** | **Download links to the software** | __Hardware specifications__ | **OS required** |
+| __Chapter number__ | **Software required (With version)** | **Free/Proprietary** | **If proprietary, can code testing be performed using a trial version** | **If proprietary, then cost of the software** | **Download links to the software** | __Hardware specifications__ | **OS required** |
 
  |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 
