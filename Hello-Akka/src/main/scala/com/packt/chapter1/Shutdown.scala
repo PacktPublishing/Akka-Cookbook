@@ -24,8 +24,6 @@ class ShutdownActor extends Actor {
     case msg:String => println(s"$msg")
     case Stop => context.stop(self)
   }
-} {
+} 
 
 case object Stop
-
-}
